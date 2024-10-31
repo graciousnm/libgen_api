@@ -9,10 +9,17 @@ https://freebooks.helioho.st/api/search_book?title= {{put your book title here}}
 #Be specific in what you are looking for because there a lot of books the code has to go through and it might take a long time for you to get the json response
 
 
-# hosting by yourself
+# Install packages
 
 If you are hosting by yourself then do this first
 
-# pip install -r requirements.txt
+pip install -r requirements.txt
+
+# Contributors:
+<a href= "https://github.com/harrison-broadbent">harrison-broadbent</a>
+
+<a href= "https://github.com/Factual0367">Factual0367</a> - libgen-api-enhanced creator
+
+
 
 
