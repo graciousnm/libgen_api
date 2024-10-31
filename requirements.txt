@@ -1,0 +1,4 @@
+flask
+libgen_api_enhanced
+bs4
+requests
